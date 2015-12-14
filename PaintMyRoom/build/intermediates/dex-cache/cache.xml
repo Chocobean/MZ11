@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jar="/home/choco/AndroidStudioProjects/PaintMyRoom/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="dc6ae2e2ef578f0007155c443980dd38db084b5b">
-        <dex dex="/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/pre-dexed/debug/classes_58690f6efbdef05d88ca1d4b9597e9c314ca10db.jar" />
+        sha1="899e6627a168067bbc576c7ed62df4b74d3fa814">
+        <dex dex="/home/choco/AndroidStudioProjects/PaintMyRoom/app/build/intermediates/pre-dexed/debug/instant-run_0e9c849e56d9d515ab8a3d5d8a6858f79e309282.jar" />
     </item>
     <item
-        jar="/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/choco/AndroidStudioProjects/PaintMyRoom/app/build/intermediates/incremental-classes/debug/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="b4367d7e3348f24522ddd4eff0efc16a67ad09ff">
-        <dex dex="/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/pre-dexed/debug/instant-run_1ca424f721779d7a698c6706e436d3127a90529d.jar" />
+        sha1="cec0262e200f0d810ce3cfa3d3b069d67ffffbdf">
+        <dex dex="/home/choco/AndroidStudioProjects/PaintMyRoom/app/build/intermediates/pre-dexed/debug/classes_7f8218f0fd84d53ee1013dd65953cbdff1002972.jar" />
     </item>
 
 </items>
