@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dc6ae2e2ef578f0007155c443980dd38db084b5b">
+        <dex dex="/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/pre-dexed/debug/classes_58690f6efbdef05d88ca1d4b9597e9c314ca10db.jar" />
+    </item>
+    <item
+        jar="/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b4367d7e3348f24522ddd4eff0efc16a67ad09ff">
+        <dex dex="/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/pre-dexed/debug/instant-run_1ca424f721779d7a698c6706e436d3127a90529d.jar" />
+    </item>
+
+</items>

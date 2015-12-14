@@ -1,0 +1,8 @@
+/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/univie/mz11/MainActivity$1.class
+/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/univie/mz11/MainActivity$3.class
+/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/univie/mz11/OverlayView.class
+/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/univie/mz11/OverlayView$1.class
+/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/univie/mz11/ColorActivity.class
+/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/univie/mz11/MainActivity.class
+/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/univie/mz11/ColorActivity$1.class
+/home/choco/AndroidStudioProjects/sobel2/app/build/intermediates/transforms/instantRun/debug/folders/1/1/main/com/univie/mz11/MainActivity$2.class
